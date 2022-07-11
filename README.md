@@ -22,3 +22,30 @@ Types Styled Components
 ```
 npm i @types/styled-components -D
 ```
+
+Eslint
+```
+npm i eslint -D
+```
+
+Eslint Config by Rocketseat
+```
+npm i @rocketseat/eslint-config -D
+```
+
+## Comandos
+
+(Eslint) Verifica erros
+```
+npx eslint src --ext .ts,.tsx
+```
+
+(Eslint) Corrige todos os erros encontrados
+```
+npx eslint src --ext .ts,.tsx --fix
+```
+
+(Eslint) Scripts Package JSON
+```
+npm run lint
+```
