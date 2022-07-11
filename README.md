@@ -38,6 +38,11 @@ React Router Dom
 npm i react-router-dom
 ```
 
+Phosphor React Icons
+```
+npm i phosphor-react
+```
+
 ## Comandos
 
 (Eslint) Verifica erros
