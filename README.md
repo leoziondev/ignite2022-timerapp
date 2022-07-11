@@ -33,6 +33,11 @@ Eslint Config by Rocketseat
 npm i @rocketseat/eslint-config -D
 ```
 
+React Router Dom
+```
+npm i react-router-dom
+```
+
 ## Comandos
 
 (Eslint) Verifica erros
