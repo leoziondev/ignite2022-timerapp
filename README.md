@@ -43,6 +43,11 @@ Phosphor React Icons
 npm i phosphor-react
 ```
 
+React Hook Forms
+```
+npm i react-hook-form
+```
+
 ## Comandos
 
 (Eslint) Verifica erros
