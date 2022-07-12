@@ -53,6 +53,11 @@ Zod Validations
 npm i zod
 ```
 
+Integrate React Hook form and validation package
+```
+npm i @hookform/resolvers
+```
+
 ## Comandos
 
 (Eslint) Verifica erros
