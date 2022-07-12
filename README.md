@@ -48,6 +48,11 @@ React Hook Forms
 npm i react-hook-form
 ```
 
+Zod Validations
+```
+npm i zod
+```
+
 ## Comandos
 
 (Eslint) Verifica erros
