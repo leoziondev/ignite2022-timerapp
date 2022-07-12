@@ -58,6 +58,11 @@ Integrate React Hook form and validation package
 npm i @hookform/resolvers
 ```
 
+Date FNS
+```
+npm i date-fns
+```
+
 ## Comandos
 
 (Eslint) Verifica erros
