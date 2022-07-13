@@ -63,6 +63,11 @@ Date FNS
 npm i date-fns
 ```
 
+Immer
+```
+npm i immer
+```
+
 ## Comandos
 
 (Eslint) Verifica erros
